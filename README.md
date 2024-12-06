@@ -18,7 +18,7 @@ I’m a passionate **Computer Science Engineering** student with a focus on **we
 
 ## 📫 How to Reach Me
 - **Email**: mrunallabhe@gmail.com
-- **LinkedIn**: [linkedin.com/in/mrunallabhe](https://linkedin.com/in/mrunal-labhe)
+- **LinkedIn**: [linkedin.com/in/mrunallabhe](https://linkedin.com/in/mrunal-labhe30)
 - **GitHub**: [github.com/mrunallabhe](https://github.com/mrunallabhe)
 
 ## 🌟 Skills & Technologies
